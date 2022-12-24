@@ -8,6 +8,6 @@ This repo is just an attempt to read in and factorize a file of numbers.
 * Language: Bash script
 * OS: Ubuntu 14.04 LTS
 
-## Author :AdamsGeeky:
+## Author :octocat:
 
 [linkedin](https://www.linkedin.com/in/adamu-muhammad-muhammad-13456b190/) | [Twitter](https://twitter.com/AdamsGeeky) | [GitHub](https://github.com/AdamsGeeky)
